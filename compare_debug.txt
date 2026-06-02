@@ -1,0 +1,33 @@
+host_uri len=29
+hardcoded len=41
+equal: False
+host_uri hex: 3c636c75737465722d616464726573733e2e6d6f6e676f64622e6e6574
+hardcoded hex: 706564616c6f676963616c61737369737374616e742e667177666f6e342e6d6f6e676f64622e6e6574
+DIFF at pos 0: 003c vs 0070
+DIFF at pos 1: 0063 vs 0065
+DIFF at pos 2: 006c vs 0064
+DIFF at pos 3: 0075 vs 0061
+DIFF at pos 4: 0073 vs 006c
+DIFF at pos 5: 0074 vs 006f
+DIFF at pos 6: 0065 vs 0067
+DIFF at pos 7: 0072 vs 0069
+DIFF at pos 8: 002d vs 0063
+DIFF at pos 10: 0064 vs 006c
+DIFF at pos 11: 0064 vs 0061
+DIFF at pos 12: 0072 vs 0073
+DIFF at pos 13: 0065 vs 0073
+DIFF at pos 14: 0073 vs 0069
+DIFF at pos 16: 003e vs 0073
+DIFF at pos 17: 002e vs 0074
+DIFF at pos 18: 006d vs 0061
+DIFF at pos 19: 006f vs 006e
+DIFF at pos 20: 006e vs 0074
+DIFF at pos 21: 0067 vs 002e
+DIFF at pos 22: 006f vs 0066
+DIFF at pos 23: 0064 vs 0071
+DIFF at pos 24: 0062 vs 0077
+DIFF at pos 25: 002e vs 0066
+DIFF at pos 26: 006e vs 006f
+DIFF at pos 27: 0065 vs 006e
+DIFF at pos 28: 0074 vs 0034
+LENGTH DIFF: host=29 hard=41

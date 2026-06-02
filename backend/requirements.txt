@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+motor
+pymupdf
+python-docx
+python-dotenv
+python-multipart
+chromadb
+langgraph
+langchain-ollama
+langchain-google-genai
+langchain-community
+langsmith
